@@ -28,6 +28,9 @@ margin-top: 10px;
   font-family:Ubuntu;
   line-height: 1;
     letter-spacing: 0.03em;
+    background-color: darkgrey;
+    border-radius: 4px;
+    padding: 5px;
 }
 .value {
   font-size: 24px;
@@ -35,4 +38,15 @@ margin-top: 10px;
 }
 .label{
   font-size: 18px;
+}
+#datetime-picker {
+  width: 310px;
+  height: 30px;
+}
+button {
+  font-size: 16px;
+  font-weight: 600;
+  margin: 0;
+  border-radius: 50%;
+  padding: 15px;
 }
